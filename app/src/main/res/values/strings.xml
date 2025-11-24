@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">BookApp</string>
+    <string name="app_title">Book Collection</string>
+
+    <!-- Activity 1 - Main Activity -->
+    <string name="hint_book_title">Book Title</string>
+    <string name="hint_book_author">Author Name</string>
+    <string name="hint_book_year">Publication Year</string>
+    <string name="btn_submit">Add Book</string>
+    <string name="toast_fill_fields">Please fill all fields</string>
+    <string name="book_icon_desc">Book Icon</string>
+
+    <!-- Activity 2 - Book Details Activity -->
+    <string name="book_details_title">Book Details</string>
+    <string name="book_title_label">Title:</string>
+    <string name="book_author_label">Author:</string>
+    <string name="book_year_label">Year:</string>
+    <string name="btn_take_photo">Take Book Photo</string>
+    <string name="btn_next">Next: Common Intents</string>
+    <string name="book_photo_desc">Book Photo</string>
+    <string name="toast_camera_not_available">Camera not available</string>
+
+    <!-- Activity 3 - Intents Activity -->
+    <string name="common_intents_title">Common Intents</string>
+    <string name="web_browser_section">1. Open Web Browser</string>
+    <string name="hint_url">Enter URL (e.g., google.com)</string>
+    <string name="btn_open_browser">Open in Browser</string>
+    <string name="toast_enter_url">Please enter a URL</string>
+    <string name="toast_browser_not_available">Browser not available</string>
+
+    <string name="email_section">2. Send Email</string>
+    <string name="hint_email">Recipient Email</string>
+    <string name="hint_subject">Email Subject</string>
+    <string name="hint_message">Email Message</string>
+    <string name="btn_send_email">Send Email</string>
+    <string name="toast_enter_email">Please enter an email address</string>
+    <string name="toast_email_not_available">Email app not available</string>
+    <string name="email_chooser_title">Send email via</string>
+</resources>

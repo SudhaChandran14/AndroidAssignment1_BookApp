@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">تطبيق الكتب</string>
+    <string name="app_title">مجموعة الكتب</string>
+
+    <!-- Activity 1 - Main Activity -->
+    <string name="hint_book_title">عنوان الكتاب</string>
+    <string name="hint_book_author">اسم المؤلف</string>
+    <string name="hint_book_year">سنة النشر</string>
+    <string name="btn_submit">إضافة كتاب</string>
+    <string name="toast_fill_fields">يرجى ملء جميع الحقول</string>
+    <string name="book_icon_desc">أيقونة الكتاب</string>
+
+    <!-- Activity 2 - Book Details Activity -->
+    <string name="book_details_title">تفاصيل الكتاب</string>
+    <string name="book_title_label">العنوان:</string>
+    <string name="book_author_label">المؤلف:</string>
+    <string name="book_year_label">السنة:</string>
+    <string name="btn_take_photo">التقاط صورة الكتاب</string>
+    <string name="btn_next">التالي: النوايا الشائعة</string>
+    <string name="book_photo_desc">صورة الكتاب</string>
+    <string name="toast_camera_not_available">الكاميرا غير متوفرة</string>
+
+    <!-- Activity 3 - Intents Activity -->
+    <string name="common_intents_title">النوايا الشائعة</string>
+    <string name="web_browser_section">١. فتح متصفح الويب</string>
+    <string name="hint_url">أدخل الرابط (مثال: google.com)</string>
+    <string name="btn_open_browser">فتح في المتصفح</string>
+    <string name="toast_enter_url">يرجى إدخال رابط</string>
+    <string name="toast_browser_not_available">المتصفح غير متوفر</string>
+
+    <string name="email_section">٢. إرسال بريد إلكتروني</string>
+    <string name="hint_email">البريد الإلكتروني للمستلم</string>
+    <string name="hint_subject">موضوع البريد</string>
+    <string name="hint_message">رسالة البريد</string>
+    <string name="btn_send_email">إرسال بريد إلكتروني</string>
+    <string name="toast_enter_email">يرجى إدخال عنوان بريد إلكتروني</string>
+    <string name="toast_email_not_available">تطبيق البريد غير متوفر</string>
+    <string name="email_chooser_title">إرسال البريد عبر</string>
+</resources>
