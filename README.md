@@ -3,7 +3,7 @@
 ## Project Overview
 A comprehensive Android application demonstrating multi-activity navigation, implicit intents, object passing, and alternative resources including language-specific colors.
 
-## Features Implemented ✅
+## Features Implemented 
 
 ### 1. **Three Activity Structure**
 - **MainActivity**: Collects book information (title, author, year)
@@ -218,6 +218,6 @@ git push -u origin main
 This project is created for educational purposes as part of an Android development assignment.
 
 ## Author
-[Your Name]
+[Sudha Chandran]
 [Your Student ID]
-[Date: November 2024]
+[Date: November 2025]
